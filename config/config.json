@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "user",
+    "password": "1234",
+    "database": "kdt",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+  },
+  "production": {  
+  "username": "user",
+  "password": "1234",
+  "database": "kdt",
+  "host": "49.50.161.92",
+  "dialect": "mysql"
+  }
+}
