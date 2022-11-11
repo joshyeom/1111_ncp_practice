@@ -22,5 +22,5 @@ app.get("*", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`http://localhost:${PORT}/user`);
+  console.log(`http://localhost:${PORT}`);
 });
